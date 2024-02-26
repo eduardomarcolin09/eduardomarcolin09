@@ -27,8 +27,8 @@
 
 - 📌 [Sistema de Estágios (IFRS)](https://github.com/eduardomarcolin09/Trabalho_Estagios2023)
   
-- 📌 [Jogo da Forca](https://github.com/eduardomarcolin09/Jogo_Da_Forca)
+- 📌 [Jogo da Forca](https://eduardomarcolin09.github.io/Jogo_Da_Forca/)
   
-- 📌 [Jogo da Memória](https://github.com/eduardomarcolin09/Jogo_Da_Memoria)
+- 📌 [Jogo da Memória](https://eduardomarcolin09.github.io/Jogo_Da_Memoria/)
   
-- 📌 [Blog de Comida](https://github.com/eduardomarcolin09/Blog_TudoGostoso)
+- 📌 [Blog de Comida](https://eduardomarcolin09.github.io/Blog_TudoGostoso/)
