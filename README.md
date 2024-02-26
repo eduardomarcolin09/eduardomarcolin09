@@ -10,7 +10,7 @@
 
 #### 📚 Estudos
 
-- 🖥️ 3º Ano: Informática para Internet
+- 🖥️ Cursando Informática para Internet - 3º Ano
 - 📌 IFRS - Campus Bento Gonçalves
 - 🎭 Projetos paralelos
 
