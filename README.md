@@ -23,6 +23,11 @@
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
+### 🧠Aprendendo...
+<div style='display: inline_block'>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div>
+
 ### 🤖 Alguns trabalhos/projetos que criei ou trabalhei 
 
 - 📌 [Sistema de Estágios (IFRS)](https://github.com/eduardomarcolin09/Trabalho_Estagios2023)
